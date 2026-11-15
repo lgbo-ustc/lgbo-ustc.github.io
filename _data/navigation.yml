@@ -1,4 +1,6 @@
 # Navigation
 #
-# The main menu is intentionally empty: this site has a single page.
-main: []
+# Keep the menu minimal: a hello world home page and the ClickHouse work page.
+main:
+  - title: "ClickHouse"
+    url: /clickhouse/
